@@ -1,6 +1,5 @@
 {
   "name": "robo-homies",
-  "homepage": "https://supadupa24.github.io/real-robo/index.js",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
